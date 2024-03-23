@@ -1,5 +1,4 @@
 void main (){
-
- print("Welcome guys ");
- 
+  int id = ('raj', c:'kaushik ');
+    print('id');
 }
